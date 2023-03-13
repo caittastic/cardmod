@@ -1,0 +1,7 @@
+{
+  "parent": "examplemod:item/card",
+  "textures": {
+    "back": "examplemod:item/overworld_set/overworld_card_back",
+    "front": "examplemod:item/overworld_set/overworld_card_18"
+  }
+}
